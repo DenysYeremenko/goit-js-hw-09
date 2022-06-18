@@ -44,3 +44,15 @@ button {
 .label {
   font-weight: 500;
 }
+
+.form {
+  display: grid;
+}
+
+.form label {
+  font-size: 20px;
+}
+
+.form label  {
+  display: inline;
+}
